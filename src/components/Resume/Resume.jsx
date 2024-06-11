@@ -50,14 +50,38 @@ const Resume = () => {
                     </ul>
 
                     <h3>Projects</h3>
-                    <p><em><strong>Visit to my Github for projects with live demo</strong></em></p>
                     <ul className='projects'>
-                        <li>Mern stack Url Shortener with stateless authentication and User History</li>
+                        {/* <li>Mern stack Url Shortener with stateless authentication and User History</li>
                         <li>Password Generator with History using Redux Toolkit</li>
                         <li>Authentication System using Autho and Context API</li>
-                        <li>Realtime Weather App using vanilla js</li>
-                        and etc.
+                        <li>Realtime Weather App using vanilla js</li> */}
+                        <li>
+                            Mern stack Url Shortener with stateless authentication and User History
+                            <a className='demo' href="https://github.com/shivamshende/mern-url-shortener" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <span> | </span>
+                            <a href="https://your-demo-url.com" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                        </li>
+                        <li>
+                            Password Generator with History using Redux Toolkit
+                            <a className='demo' href="https://github.com/shivamshende/password-generator" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <span> | </span>
+                            <a href="https://your-demo-url.com" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                        </li>
+                        <li>
+                            Authentication System using Auth0 and Context API
+                            <a className='demo' href="https://github.com/shivamshende/auth0-context-api" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <span> | </span>
+                            <a href="https://your-demo-url.com" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                        </li>
+                        <li>
+                            Realtime Weather App using vanilla js
+                            <a className='demo' href="https://github.com/shivamshende/realtime-weather-app" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <span> | </span>
+                            <a href="https://your-demo-url.com" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                        </li>
                     </ul>
+                    <p><em><strong>Visit to <a href="https://github.com/shivamshende/" target="_blank" rel="noopener noreferrer">my Github</a> for more</strong></em></p>
+                    <p><em><strong>Visit to <a href="https://shivamshendeportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">my Portfolio</a> to know more about me, my interest, my activity and most important <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">my Blogs</a></strong></em></p>
                 </div>
             </div>
             <button className='download-resume' onClick={handlePrint}>Download Resume</button>
