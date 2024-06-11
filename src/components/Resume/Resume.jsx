@@ -57,31 +57,37 @@ const Resume = () => {
                         <li>Realtime Weather App using vanilla js</li> */}
                         <li>
                             Mern stack Url Shortener with stateless authentication and User History
-                            <a className='demo' href="https://github.com/shivamshende/mern-url-shortener" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <a className='demo' href="https://youtu.be/vsd2YASdqzQ?si=ttXAKUOrkgCxsl7_" target="_blank" rel="noopener noreferrer">Demo</a>
                             <span> | </span>
-                            <a href="https://your-demo-url.com" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                            <a href="https://github.com/shivamshende/react-urlShortener-stateless-auth" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                         <li>
                             Password Generator with History using Redux Toolkit
-                            <a className='demo' href="https://github.com/shivamshende/password-generator" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <a className='demo' href="https://password-generator-redux.netlify.app/" target="_blank" rel="noopener noreferrer">Demo</a>
                             <span> | </span>
-                            <a href="https://your-demo-url.com" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                            <a href="https://github.com/shivamshende/redux-toolkit-password-generator" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                         <li>
                             Authentication System using Auth0 and Context API
-                            <a className='demo' href="https://github.com/shivamshende/auth0-context-api" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <a className='demo' href="https://youtu.be/_tcD9ziL8gE?si=xOa5GqEfgnWEefzP" target="_blank" rel="noopener noreferrer">Demo</a>
                             <span> | </span>
-                            <a href="https://your-demo-url.com" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                            <a href="https://github.com/shivamshende/React-contextAPI-and-Auth0" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                         <li>
-                            Realtime Weather App using vanilla js
-                            <a className='demo' href="https://github.com/shivamshende/realtime-weather-app" target="_blank" rel="noopener noreferrer">Demo</a>
+                            Realtime Weather App using Vanilla JS
+                            <a className='demo' href="https://shivamshende.github.io/weather-app/" target="_blank" rel="noopener noreferrer">Demo</a>
                             <span> | </span>
-                            <a href="https://your-demo-url.com" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                            <a href="https://github.com/shivamshende/weather-app" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                        </li>
+                        <li>
+                            Github Profile Viewer and React Router Usage
+                            <a className='demo' href="https://shivamshende.github.io/React-Router/" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <span> | </span>
+                            <a href="https://github.com/shivamshende/React-Router" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                     </ul>
                     <p><em><strong>Visit to <a href="https://github.com/shivamshende/" target="_blank" rel="noopener noreferrer">my Github</a> for more</strong></em></p>
-                    <p><em><strong>Visit to <a href="https://shivamshendeportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">my Portfolio</a> to know more about me, my interest, my activity and most important <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">my Blogs</a></strong></em></p>
+                    <p><em><strong>Visit to <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">my Portfolio</a> to know more about me, my interest, my activity and most important <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">my Blogs</a></strong></em></p>
                 </div>
             </div>
             <button className='download-resume' onClick={handlePrint}>Download Resume</button>
