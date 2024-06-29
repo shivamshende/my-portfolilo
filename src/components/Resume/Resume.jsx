@@ -27,7 +27,7 @@ const Resume = () => {
 
                     <div className='adjective'>
                         <h2>Objective</h2>
-                        <p>As a Computer Science and Engineering student with a hobby of web development, I have a strong interest in business operations, particularly in innovative and initial phase environments. I am eager to leverage my technical skills, management, problem-solving, market research, and analysis to contribute to a company's success.</p>
+                        <p>A Computer Science and Engineering student with a hobby of web development, I have a strong interest in driving business operations, particularly in innovative and initial phase environments. I am eager to leverage my technical skills, leadership, vision and strategic thinking, management and problem-solving, market research, analysis and adaptability to contribute to a company's success.</p>
                     </div>
 
                     <h2>Education</h2>
@@ -51,10 +51,6 @@ const Resume = () => {
 
                     <h3>Projects</h3>
                     <ul className='projects'>
-                        {/* <li>Mern stack Url Shortener with stateless authentication and User History</li>
-                        <li>Password Generator with History using Redux Toolkit</li>
-                        <li>Authentication System using Autho and Context API</li>
-                        <li>Realtime Weather App using vanilla js</li> */}
                         <li>
                             Mern stack Url Shortener with stateless authentication and User History
                             <a className='demo' href="https://youtu.be/vsd2YASdqzQ?si=ttXAKUOrkgCxsl7_" target="_blank" rel="noopener noreferrer">Demo</a>

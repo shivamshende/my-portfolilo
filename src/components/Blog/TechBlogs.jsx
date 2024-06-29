@@ -2,6 +2,7 @@ import React from 'react'
 import jsBlogImage from '../../../src/assets/js_blog.jfif';
 import authBlogImage from '../../../src/assets/backend_auth.jpg';
 import nodejsBlogImage from '../../../src/assets/nodejs_blog.jfif';
+import MERNstackBlogImage from '../../../src/assets/top-MERN-Stack.png';
 
 function TechBlogs() {
   return (
@@ -20,6 +21,7 @@ function TechBlogs() {
           </a>
         </div>
       </div>
+
       <div className="blog-post">
         <div className="blog-post-image">
           <img src={jsBlogImage} alt="Blog Post 2" />
@@ -34,9 +36,25 @@ function TechBlogs() {
           </a>
         </div>
       </div>
+
       <div className="blog-post">
         <div className="blog-post-image">
-          <img src={authBlogImage} alt="Blog Post 3" />
+          <img src={MERNstackBlogImage} alt="Blog Post 3" />
+        </div>
+        <div className="blog-post-info">
+          <h2>How MERN Stack Works: Performance Optimization</h2>
+          <p>
+            The MERN stack has become a popular choice for building dynamic and interactive web applications. But what exactly is it, and how do these different technologies work together? In this blog, we’ll delve into the inner workings of the MERN stack.
+          </p>
+          <a href="https://medium.com/@shivamshende200/how-mern-stack-works-performance-optimization-1458c343ab06" target={'_blank'} className="read-more">
+            Read More...
+          </a>
+        </div>
+      </div>
+
+      <div className="blog-post">
+        <div className="blog-post-image">
+          <img src={authBlogImage} alt="Blog Post 4" />
         </div>
         <div className="blog-post-info">
           <h2>Understanding Stateful and Stateless Authentication: A Backend Perspective</h2>

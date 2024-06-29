@@ -39,7 +39,7 @@ const About = () => {
 
                 <h2>Contact Information</h2>
                 <p>
-                    Feel free to reach out to me for any opportunities or collaborations at shivamshende200@gmail.com.
+                    Feel free to reach out to me for any opportunities or collaborations at 'shivamshende200@gmail.com'.
                 </p>
                 <p>
                     Check out my projects and blogs to see my work in action.

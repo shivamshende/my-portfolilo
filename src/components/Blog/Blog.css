@@ -91,3 +91,8 @@ a:hover {
     margin-right: 44px;
   }
 }
+
+.blog-post-image img {
+  width: 175px;
+  height: 105px;
+}
