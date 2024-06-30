@@ -27,7 +27,7 @@ const Resume = () => {
 
                     <div className='adjective'>
                         <h2>Objective</h2>
-                        <p>A Computer Science and Engineering student with a hobby of web development, I have a strong interest in driving business operations, particularly in innovative and initial phase environments. I am eager to leverage my technical skills, leadership, vision and strategic thinking, management and problem-solving, market research, analysis and adaptability to contribute to a company's success.</p>
+                        <p>I'm Shivam Shende, a Computer Science and Engineering student enjoys web development interactive web applications. But beyond this, I also have to experience my leadership, strategic thinking and vision, management and problem-solving, market research and adaptability particularly in innovative and initial phase environments where I can be an integral part of the journey towards success. I want to thrive in such environments where technical and non-technical both skills can significantly contribute to a company's growth.</p>
                     </div>
 
                     <h2>Education</h2>
@@ -36,17 +36,17 @@ const Resume = () => {
                     <p>2022 - Present</p>
 
                     <h2>Skills</h2>
-                    <h3>Non-Technical Skills | Bussiness Management</h3>
+                    <h3>Non-Technical Skills | Management</h3>
                     <ul className='horizontal-list'>
                         <li>Leadership and Decision making</li>
-                        <li>Management and Problem Solving</li>
+                        <li>Adaptability and Problem Solving</li>
                         <li>Market Research and Analysis</li>
                         <li>Communication and Collaboration</li>
                     </ul>
 
                     <h3>Technical Skills</h3>
                     <ul>
-                        <li><strong>Web Development:</strong> React, Node.js, Express.js, Database(MongoDB, MySQL)</li>
+                        <li><strong>Web Development:</strong> Vanilla JS, React, Node.js, Express.js, Database(MongoDB, MySQL)</li>
                     </ul>
 
                     <h3>Projects</h3>
@@ -64,16 +64,16 @@ const Resume = () => {
                             <a href="https://github.com/shivamshende/redux-toolkit-password-generator" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                         <li>
-                            Authentication System using Auth0 and Context API
-                            <a className='demo' href="https://youtu.be/_tcD9ziL8gE?si=xOa5GqEfgnWEefzP" target="_blank" rel="noopener noreferrer">Demo</a>
-                            <span> | </span>
-                            <a href="https://github.com/shivamshende/React-contextAPI-and-Auth0" target="_blank" rel="noopener noreferrer">Git Repo</a>
-                        </li>
-                        <li>
                             Realtime Weather App using Vanilla JS
                             <a className='demo' href="https://shivamshende.github.io/weather-app/" target="_blank" rel="noopener noreferrer">Demo</a>
                             <span> | </span>
                             <a href="https://github.com/shivamshende/weather-app" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                        </li>
+                        <li>
+                            Authentication System using Auth0 and Context API
+                            <a className='demo' href="https://youtu.be/_tcD9ziL8gE?si=xOa5GqEfgnWEefzP" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <span> | </span>
+                            <a href="https://github.com/shivamshende/React-contextAPI-and-Auth0" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                         <li>
                             Github Profile Viewer and React Router Usage
