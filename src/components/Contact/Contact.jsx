@@ -40,7 +40,7 @@ const Contact = () => {
         try {
             const response = await axios(url, options);
             console.log('Email sent:', response.data);
-            alert('Email sent successfully!');
+            // alert('Email sent successfully!');
         } catch (error) {
             console.error('Error sending email:', error);
             alert('Error sending email. Please try again.');
@@ -66,7 +66,6 @@ const Contact = () => {
                                 placeholder="Your Name"
                                 value={formData.name}
                                 onChange={handleChange}
-                            // required
                             />
                             <input
                                 type="email"
@@ -82,7 +81,6 @@ const Contact = () => {
                                 placeholder="Subject"
                                 value={formData.subject}
                                 onChange={handleChange}
-                            // required
                             />
                         </div>
                         <textarea

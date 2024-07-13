@@ -1,7 +1,7 @@
 import React from 'react'
-import jsBlogImage from '../../../src/assets/js_blog.jfif';
+import jsBlogImage from '../../../src/assets/js_blog.jpg';
 import authBlogImage from '../../../src/assets/backend_auth.jpg';
-import nodejsBlogImage from '../../../src/assets/nodejs_blog.jfif';
+import nodejsBlogImage from '../../../src/assets/nodejs_blog.jpg';
 import MERNstackBlogImage from '../../../src/assets/top-MERN-Stack.png';
 
 function TechBlogs() {

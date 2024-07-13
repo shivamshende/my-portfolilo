@@ -1,6 +1,7 @@
 import React from 'react'
 import BizStrategyBlogImage from '../../../src/assets/biz_strategy.webp';
 import decisonMaking from '../../../src/assets/decision_making.jpg'
+import MarketResearch from '../../../src/assets/market_research.jpg'
 
 function NonTechBLogs() {
   return (
@@ -30,6 +31,21 @@ function NonTechBLogs() {
             As startups navigate through uncertain waters, making the right decisions can be the difference between success and failure. In this blog, we’ll explore various aspects of decision-making that can help startups thrive.
           </p>
           <a href="https://medium.com/@shivamshende200/effective-decision-making-in-high-growth-business-44e59fb489de" target={'_blank'} className="read-more">
+            Read More...
+          </a>
+        </div>
+      </div>
+
+      <div className="blog-post">
+        <div className="blog-post-image">
+          <img src={MarketResearch} alt="Blog Post 3" />
+        </div>
+        <div className="blog-post-info">
+          <h2>The Role of Market Research in Business Strategy</h2>
+          <p>
+            Market research plays a pivotal role in guiding these decisions, providing businesses with essential insights into their market, customers, and competition. This blog delves into the critical role of market research in shaping effective business strategies.
+          </p>
+          <a href="https://medium.com/@shivamshende200/the-role-of-market-research-in-business-strategy-9cdc25ff2122" target={'_blank'} className="read-more">
             Read More...
           </a>
         </div>

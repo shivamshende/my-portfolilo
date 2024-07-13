@@ -82,7 +82,7 @@ const Resume = () => {
                             <a href="https://github.com/shivamshende/React-Router" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                     </ul>
-                    <p><em><strong>Visit to <a href="https://github.com/shivamshende/" target="_blank" rel="noopener noreferrer">my Github</a> for more</strong></em></p>
+                    <p><em><strong>You can Visit to <a href="https://github.com/shivamshende/" target="_blank" rel="noopener noreferrer">my Github</a> for more</strong></em></p>
                     <p><em><strong>Visit to <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">my Portfolio</a> to know more about me, my interest, my activity and most important <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">my Blogs</a></strong></em></p>
                 </div>
             </div>
