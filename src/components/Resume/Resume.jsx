@@ -58,10 +58,10 @@ const Resume = () => {
                             <a href="https://github.com/shivamshende/react-urlShortener-stateless-auth" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                         <li>
-                            Password Generator with History using Redux Toolkit
-                            <a className='demo' href="https://password-generator-redux.netlify.app/" target="_blank" rel="noopener noreferrer">Demo</a>
+                            Realtime Email Sender
+                            <a className='demo' href="https://email-sender-realtime.netlify.app/" target="_blank" rel="noopener noreferrer">Demo</a>
                             <span> | </span>
-                            <a href="https://github.com/shivamshende/redux-toolkit-password-generator" target="_blank" rel="noopener noreferrer">Git Repo</a>
+                            <a href="https://github.com/shivamshende/Realtime-Mail-Sender" target="_blank" rel="noopener noreferrer">Git Repo</a>
                         </li>
                         <li>
                             Realtime Weather App using Vanilla JS

@@ -14,9 +14,8 @@ function App() {
         <Router>
             <Routes>
                 <Route path='/' element={<Home />} />
-                {/* <Route path='blog' element={<Blog />} /> */}
                 <Route path='blog' element={<Blog />} >
-                <Route index element={<Navigate to="non-techBlogs" replace />} />
+                    <Route index element={<Navigate to="non-techBlogs" replace />} />
                     <Route path='non-techBlogs' element={<NonTechBLogs />} />
                     <Route path='techBlogs' element={<TechBlogs />} />
                 </Route>
