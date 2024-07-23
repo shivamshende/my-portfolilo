@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home-container">
       <header className="home-header">
         <h1>Shivam Shende</h1>  {/* Replace with your name */}
-        <h2>Web Developer | Business Enthusiast</h2>  {/* Replace with your profession */}
+        <h2>Web Developer | Business Development Enthusiast</h2>  {/* Replace with your profession */}
         <nav className="home-nav">
           <Link to="/blog" className="home-nav-link">Blog</Link>
           <Link to="/about" className="home-nav-link">About</Link>
