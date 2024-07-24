@@ -25,7 +25,7 @@ const About = () => {
                 <h2>Skills</h2>
                 <h3>Technical Skills</h3>
                 <p>
-                    My technical skill set includes vanilla js, React, Node.js, Express.js, Databaases (web development)
+                    My technical skill set includes vanilla js, React, Node.js, Express.js, Database (web development)
                 </p>
                 <h3>Non-Technical and Soft Skills</h3>
                 <p>

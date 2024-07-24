@@ -113,7 +113,6 @@ const Resume = () => {
                 <h1>Resume</h1>
                 <div ref={resumeRef} className="resume-content">
                     <h2>Shivam Shende</h2>
-                    <p className='thoughts'><strong><em>“What jobs am I qualified for?”</em></strong></p>
                     <p><strong>Phone:</strong> +91 7263057752</p>
                     <p><strong>Email:</strong> shivamshende200@gmail.com</p>
                     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivam-shende-b8b121250/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/shivam-shende-b8b121250/</a></p>
@@ -122,7 +121,7 @@ const Resume = () => {
 
                     {/* <p>---</p>/ */}
 
-                    <p><strong>Job Title - </strong>Business Development Intern / Executive / Manager</p>
+                    <p><strong>Job Title - </strong>Business Development Executive / Manager</p>
                     <p><strong>Secondary Title - </strong>Web Developer</p>
 
 
@@ -166,7 +165,6 @@ const Resume = () => {
                     </ul>
 
                     <p><em>Visit to <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">my Portfolio</a> to know more about me, my interest, my activity and most important <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">my Blogs</a> for my knowledge</em></p>
-                    <p className='thoughts'><strong><em>"A resume can only offer an identity; true knowledge is defined virtually"</em></strong></p>
                 </div>
             </div>
             <button className='download-resume' onClick={handlePrint}>Download Resume</button>
