@@ -49,7 +49,7 @@ const Resume = () => {
 
                     <h3>Technical Skills</h3>
                     <ul>
-                        <li><strong>Web Development:</strong> Vanilla JS, React, Node.js, Express.js, Database(MongoDB, MySQL)</li>
+                        <li><strong>Web Development/Full-stack:</strong> Vanilla JS, React, Typescript, Next.js, Node.js, Express.js, Database(MongoDB, MySQL)</li>
                     </ul>
 
                     <h3>Projects</h3>
@@ -61,6 +61,7 @@ const Resume = () => {
                             <li>MERN stack <a href="https://youtu.be/vsd2YASdqzQ?si=ttXAKUOrkgCxsl7_" target="_blank" rel="noopener noreferrer">URL Shortener</a> with stateless authentication and user history</li>
                             <li><a href="https://shivamshende.github.io/React-Router/" target="_blank" rel="noopener noreferrer">GitHub Profile Viewer</a> and React Router usage</li>
                             <li><a href="https://youtu.be/_tcD9ziL8gE?si=xOa5GqEfgnWEefzP" target="_blank" rel="noopener noreferrer">Authentication System</a> using Auth0 and Context API</li>
+                            <li>Typescript jwt<a href="https://github.com/shivamshende/Typescript-stateless-auth-backend" target="_blank" rel="noopener noreferrer"> authentication backend</a> with register, login, refresh session, logout, forgot password, reset password, verify email and otp for registration and forgot pasword services</li>
                         </ul>
                     </ul>
 
