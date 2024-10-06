@@ -19,7 +19,6 @@ const Resume = () => {
                 <h1>Resume</h1>
                 <div ref={resumeRef} className="resume-content">
                     <h2>Shivam Shende</h2>
-                    {/* <p className='thoughts'><strong><em>“What jobs am I qualified for?”</em></strong></p> */}
                     <p><strong>Phone:</strong> +91 7263057752</p>
                     <p><strong>Email:</strong> shivamshende200@gmail.com</p>
                     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivam-shende-b8b121250/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/shivam-shende-b8b121250/</a></p>
@@ -37,6 +36,9 @@ const Resume = () => {
                     <h2>Education</h2>
                     <p><strong>Sant Gadge Baba Amravati University</strong>, Amravati, Maharashtra</p>
                     <p>Bachelor of Computer Science and Engineering</p>
+
+                    <h2>Experience</h2>
+                    <p>Full Time Intern at <a href="https://anamarhs.com/" target="_blank">Anamarhs Web Solutions</a></p>
 
                     <h2>Skills</h2>
                     <h3>Non-Technical Skills | Management</h3>
