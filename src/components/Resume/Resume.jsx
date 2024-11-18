@@ -59,11 +59,18 @@ const Resume = () => {
                     <ul className='projects'>
                         <ul className="projects">
                             <li>Realtime <a href="https://email-sender-realtime.netlify.app/" target="_blank" rel="noopener noreferrer">Email Sender</a></li>
+
                             <li>Realtime <a href="https://shivamshende.github.io/weather-app/" target="_blank" rel="noopener noreferrer">Weather App</a> using Vanilla JS</li>
+
                             <li>MERN stack <a href="https://youtu.be/vsd2YASdqzQ?si=ttXAKUOrkgCxsl7_" target="_blank" rel="noopener noreferrer">URL Shortener</a> with stateless authentication and user history</li>
+
                             <li><a href="https://shivamshende.github.io/React-Router/" target="_blank" rel="noopener noreferrer">GitHub Profile Viewer</a> and React Router usage</li>
+
                             <li><a href="https://youtu.be/_tcD9ziL8gE?si=xOa5GqEfgnWEefzP" target="_blank" rel="noopener noreferrer">Authentication System</a> using Auth0 and Context API</li>
+
                             <li>Typescript jwt<a href="https://github.com/shivamshende/Typescript-stateless-auth-backend" target="_blank" rel="noopener noreferrer"> authentication backend</a> with register, login, refresh session, logout, forgot password, reset password, verify email and otp for registration and forgot pasword services</li>
+
+                            <li>Realtime <a href="https://email-sender-realtime.netlify.app/" target="_blank" rel="noopener noreferrer">Chat Application</a>  Javascript and Socket.io</li>
                         </ul>
                     </ul>
 
