@@ -71,6 +71,8 @@ const Resume = () => {
                             <li>Typescript jwt<a href="https://github.com/shivamshende/Typescript-stateless-auth-backend" target="_blank" rel="noopener noreferrer"> authentication backend</a> with register, login, refresh session, logout, forgot password, reset password, verify email and otp for registration and forgot pasword services</li>
 
                             <li>Realtime <a href="https://email-sender-realtime.netlify.app/" target="_blank" rel="noopener noreferrer">Chat Application</a>  Javascript and Socket.io</li>
+
+                            <li><a href="https://vanillajs-snake-game.netlify.app" target="_blank" rel="noopener noreferrer">Snake Game</a>  Using VanillaJs</li>
                         </ul>
                     </ul>
 
