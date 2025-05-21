@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home-container">
       <header className="home-header">
         <h1>Shivam Shende</h1>  {/* Replace with your name */}
-        <h2>Web Developer | Business Development Enthusiast</h2>  {/* Replace with your profession */}
+        {/* <h2>Web Developer | Business Development Enthusiast</h2>   */}
         <nav className="home-nav">
           <Link to="/blog" className="home-nav-link">Blog</Link>
           <Link to="/about" className="home-nav-link">About</Link>
@@ -17,8 +17,8 @@ const Home = () => {
       </header>
       <main className="home-main">
         <p>
-          Welcome! I am a Coputer Science and Engineering Student, and I enjoy web development as a hobby to create interactive and dynamic web applications.
-          Apart from this technical skills, I'm passionate and have a keen interest about handling business operations, specially in innovative and initial phase environments.
+          Welcome! I am a Coputer Science and Engineering Student.
+          Apart from this, I'm passionate and have a keen interest about handling business operations, specially in innovative and initial phase environments.
         </p>
         <p>
           It offers a unique opportunity to be a part of the growth from the ground up. I want to thrive in such environments, 

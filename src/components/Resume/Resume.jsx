@@ -24,13 +24,10 @@ const Resume = () => {
                     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivam-shende-b8b121250/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/shivam-shende-b8b121250/</a></p>
                     <p><strong>Portfolio:</strong> <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">https://shivam-shende-portfolio.netlify.app/</a></p>
                     <p><strong>Blog:</strong> <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">https://medium.com/@shivamshende200</a></p>
-                    <p><strong>Job Title - </strong>Business Development Executive / Manager | Project Manager</p>
-                    <p><strong>Secondary Title - </strong>Web Developer</p>
-
 
                     <div className='adjective'>
                         <h2>Objective</h2>
-                        <p>I'm Shivam Shende, a Computer Science and Engineering student enjoys web development. But beyond this, I also have to experience my leadership, strategic thinking and vision, management and problem-solving, market research and adaptability particularly in innovative and initial phase environments where I can be an integral part of the journey towards success. I want to thrive in such environments where technical and non-technical both skills can significantly contribute to a company's growth.</p>
+                        <p>I'm Shivam Shende, a Computer Engineering student with previous experience as a web developer. However, I realized that web development doesn't truly excite me. I'm now seeking an active role where I can apply both my technical knowledge and non-technical strengths—like leadership, strategic thinking, management, and problem-solving.</p>
                     </div>
 
                     <h2>Education</h2>
@@ -49,34 +46,17 @@ const Resume = () => {
                         <li>Communication and Collaboration</li>
                     </ul>
 
-                    <h3>Technical Skills</h3>
+                    {/* <h3>Technical Skills</h3>
                     <ul>
                         <li><strong>Web Development/Full-stack:</strong> Vanilla JS, React, Typescript, Next.js, Node.js, Express.js, Database(MongoDB, MySQL)</li>
                     </ul>
 
                     <h3>Projects</h3>
-                    <p><em>You can Visit to <a href="https://github.com/shivamshende/" target="_blank" rel="noopener noreferrer">my Github</a> for tech project like,</em></p>
-                    <ul className='projects'>
-                        <ul className="projects">
-                            <li>Realtime <a href="https://email-sender-realtime.netlify.app/" target="_blank" rel="noopener noreferrer">Email Sender</a></li>
-
-                            <li>Realtime <a href="https://shivamshende.github.io/weather-app/" target="_blank" rel="noopener noreferrer">Weather App</a> using Vanilla JS</li>
-
-                            <li>MERN stack <a href="https://youtu.be/vsd2YASdqzQ?si=ttXAKUOrkgCxsl7_" target="_blank" rel="noopener noreferrer">URL Shortener</a> with stateless authentication and user history</li>
-
-                            <li><a href="https://shivamshende.github.io/React-Router/" target="_blank" rel="noopener noreferrer">GitHub Profile Viewer</a> and React Router usage</li>
-
-                            <li><a href="https://youtu.be/_tcD9ziL8gE?si=xOa5GqEfgnWEefzP" target="_blank" rel="noopener noreferrer">Authentication System</a> using Auth0 and Context API</li>
-
-                            <li>Typescript jwt<a href="https://github.com/shivamshende/Typescript-stateless-auth-backend" target="_blank" rel="noopener noreferrer"> authentication backend</a> with register, login, refresh session, logout, forgot password, reset password, verify email and otp for registration and forgot pasword services</li>
-
-                            <li>Realtime <a href="https://email-sender-realtime.netlify.app/" target="_blank" rel="noopener noreferrer">Chat Application</a>  Javascript and Socket.io</li>
-
-                            <li><a href="https://vanillajs-snake-game.netlify.app" target="_blank" rel="noopener noreferrer">Snake Game</a>  Using VanillaJs</li>
-                        </ul>
-                    </ul>
+                    <p><em>You can Visit to <a href="https://github.com/shivamshende/" target="_blank" rel="noopener noreferrer">my Github</a> for tech project like,</em></p> */}
 
                     <p><em>Visit to <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">my Portfolio</a> to know more about me, my interest, my activity and most important <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">my Blogs</a> for my knowledge</em></p>
+
+                    <p className='info'><em>I just need a job, no matter what role it is!</em></p>
                 </div>
             </div>
             <button className='download-resume' onClick={handlePrint}>Download Resume</button>
