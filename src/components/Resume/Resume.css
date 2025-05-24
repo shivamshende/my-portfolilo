@@ -68,6 +68,11 @@ em {
   text-align: center;
 }
 
+.info {
+  background-color: #717106;
+  text-align: center;
+}
+
 .horizontal-list {
   list-style-type: none;
   padding: 0;
@@ -96,130 +101,3 @@ em {
     padding: 10px;
   }
 }
-
-
-
-/* Resume.css */
-/* .resume {
-  padding: 20px;
-  max-width: 900px;
-  margin: 0 auto;
-  background-color: #ffffff;
-  color: #333333;
-  font-family: 'Arial', sans-serif;
-}
-
-.resume-content {
-  padding: 20px;
-  border-radius: 5px;
-  background-color: #f7f9fc;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.backResume {
-  color: #007bff;
-}
-
-h1, h2, h3 {
-  margin-top: 0;
-  color: #007bff;
-}
-
-.resume-header {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.resume-header h1 {
-  font-size: 2.5em;
-  margin: 0;
-}
-
-.resume-header h2 {
-  font-size: 1.5em;
-  margin: 0;
-  color: #555555;
-}
-
-address {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-address p {
-  margin: 5px 0;
-}
-
-address a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-address a:hover {
-  text-decoration: underline;
-}
-
-section {
-  margin-bottom: 20px;
-}
-
-.job, .degree, .software-skill {
-  margin-bottom: 10px;
-}
-
-.job h3, .degree h3, .software-skill p {
-  margin: 0;
-  color: #333333;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-ul li {
-  margin-bottom: 5px;
-}
-
-.skills ul, .experience ul, .education ul {
-  list-style-type: disc;
-  margin-left: 20px;
-}
-
-.rating {
-  background-color: #e0e0e0;
-  border-radius: 5px;
-  overflow: hidden;
-  position: relative;
-  width: 100px;
-  height: 10px;
-}
-
-.rating span {
-  background-color: #007bff;
-  height: 100%;
-  display: block;
-}
-
-.download-resume {
-  display: block;
-  margin: 20px auto;
-  background-color: #007bff;
-  color: #ffffff;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.download-resume:hover {
-  background-color: #0056b3;
-}
-
-@media (max-width: 600px) {
-  .download-resume {
-      margin-bottom: 35px;
-      font-size: 14px;
-      padding: 10px;
-  }
-} */
