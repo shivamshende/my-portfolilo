@@ -27,7 +27,7 @@ const Resume = () => {
 
                     <div className='adjective'>
                         <h2>Objective</h2>
-                        <p>I'm Shivam Shende, a Computer Engineering student with previous experience as a web developer. However, I realized that web development doesn't truly excite me. I'm now seeking an active role where I can apply both my technical knowledge and non-technical strengths—like leadership, strategic thinking, management, and problem-solving.</p>
+                        <p>I'm Shivam Shende, a Computer Engineering student who started out as a web developer. But now, I’ve to gain more experience as a different role that allow me to apply my technical knowledge and my non-technical strengths—such as leadership, strategic thinking, management, and problem-solving.</p>
                     </div>
 
                     <h2>Education</h2>
