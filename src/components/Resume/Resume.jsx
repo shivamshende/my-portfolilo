@@ -19,7 +19,13 @@ const Resume = () => {
                 <h1>Resume</h1>
                 <div ref={resumeRef} className="resume-content">
                     <h2>Shivam Shende</h2>
-                    <p><strong>Phone:</strong> +91 7263057752</p>
+                    {/* <p><strong>Phone:</strong> +91 7263057752</p>
+                    <p><strong>Age:</strong> 23y</p> */}
+                    <div className="contact-row">
+                        <p><strong>Phone:</strong> +91 7263057752</p>
+                        <p><strong>Age:</strong> 23y</p>
+                    </div>
+
                     <p><strong>Email:</strong> shivamshende200@gmail.com</p>
                     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivam-shende-b8b121250/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/shivam-shende-b8b121250/</a></p>
                     <p><strong>Portfolio:</strong> <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">https://shivam-shende-portfolio.netlify.app/</a></p>
@@ -27,7 +33,7 @@ const Resume = () => {
 
                     <div className='adjective'>
                         <h2>Objective</h2>
-                        <p>I'm Shivam Shende, a Computer Engineering student who started out as a web developer. But now, I’ve to gain more experience as a different role that allow me to apply my technical knowledge and my non-technical strengths—such as leadership, strategic thinking, management, and problem-solving.</p>
+                        <p>I'm Shivam Shende, a Computer Engineering student started out as a web developer. But now, I want to gain more experience as a different role that allow me to gain more learnings where my skills can contribute like leadership, strategic thinking, management, and problem-solving.</p>
                     </div>
 
                     <h2>Education</h2>
