@@ -42,6 +42,16 @@ const Resume = () => {
 
                     <h2>Experience</h2>
                     <p>Full Time Intern at <a href="https://anamarhs.com/" target="_blank">Anamarhs Web Solutions</a></p>
+                    <p>I've used skills during this job like,
+                    <ul className='horizontal-list'>
+                        <li>Communication</li>
+                        <li>Time Management</li>
+                        <li>Client Handling</li>
+                        <li>Problem Solving</li>
+                        <li>Reporting and Documentation</li>
+                    </ul>
+
+                    </p>
 
                     <h2>Skills</h2>
                     <h3>Non-Technical Skills | Management</h3>
