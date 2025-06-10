@@ -31,12 +31,12 @@ const Resume = () => {
 
                     <div className='adjective'>
                         <h2>Objective</h2>
-                        <p>I'm Shivam Shende, I want to gain more experience as a role that allow me to gain more learnings where my skills can contribute like leadership, strategic thinking, management, and problem-solving.</p>
+                        <p>I'm Shivam Shende a Computer Science and Engineering Student, apart from that I want to gain more experience as a role that allow me to gain more learnings and where my skills can contribute like leadership, strategic thinking, management, and problem-solving.</p>
                     </div>
 
                     <h2>Education</h2>
-                    <p><strong>Sant Gadge Baba Amravati University</strong>, Amravati, Maharashtra</p>
-                    <p>Bachelor of Computer Science and Engineering</p>
+                    <p>Sant Gadge Baba Amravati University, Amravati, Maharashtra</p>
+                    <p><strong>Bachelor of Computer Science and Engineering</strong></p>
 
                     <h2>Experience</h2>
                     <p>Full Time Intern at <a href="https://anamarhs.com/" target="_blank">Anamarhs</a></p>
