@@ -28,10 +28,11 @@ const Resume = () => {
                     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivam-shende-b8b121250/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/shivam-shende-b8b121250/</a></p>
                     <p><strong>Portfolio:</strong> <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">https://shivam-shende-portfolio.netlify.app/</a></p>
                     <p><strong>Blog:</strong> <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">https://medium.com/@shivamshende200</a></p>
+                    <p><strong>Github:</strong> <a href="https://github.com/shivamshende" target="_blank" rel="noopener noreferrer">https://github.com/shivamshende</a></p>
 
                     <div className='adjective'>
                         <h2>Objective</h2>
-                        <p>I'm Shivam Shende a Computer Science and Engineering Student, apart from that I want to gain more experience as a role that allow me to gain more learnings and where my skills can contribute like leadership, strategic thinking, management, and problem-solving.</p>
+                        <p>I'm Shivam Shende a Computer Science and Engineering Student, previously i have done work in web developement field but now my interest shifting towards the role that can allow me to contribute throughout my skills like managemenq, market/tech research, leadership, stratigic thinking and problem solving.</p>
                     </div>
 
                     <h2>Education</h2>
@@ -39,14 +40,15 @@ const Resume = () => {
                     <p><strong>Bachelor of Computer Science and Engineering</strong></p>
 
                     <h2>Experience</h2>
-                    <p>Full Time Intern at <a href="https://anamarhs.com/" target="_blank">Anamarhs</a></p>
+                    <p>Full Time Intern at <a href="https://anamarhs.com/" target="_blank">Anamarhs Web Solutions</a></p>
                     <p>I've used skills during this job like,
                     <ul className='horizontal-list'>
-                        <li>Communication</li>
-                        <li>Time Management</li>
+                        <li>Page Building</li>
+                        <li>Reporting and Documentation</li>
                         <li>Client Handling</li>
                         <li>Problem Solving</li>
-                        <li>Reporting and Documentation</li>
+                        <li>Time Management</li>
+                        <li>Communication</li>
                     </ul>
 
                     </p>
@@ -60,17 +62,9 @@ const Resume = () => {
                         <li>Communication and Collaboration</li>
                     </ul>
 
-                    {/* <h3>Technical Skills</h3>
-                    <ul>
-                        <li><strong>Web Development/Full-stack:</strong> Vanilla JS, React, Typescript, Next.js, Node.js, Express.js, Database(MongoDB, MySQL)</li>
-                    </ul>
-
-                    <h3>Projects</h3>
-                    <p><em>You can Visit to <a href="https://github.com/shivamshende/" target="_blank" rel="noopener noreferrer">my Github</a> for tech project like,</em></p> */}
-
                     <p><em>Visit to <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">my Portfolio</a> to know more about me, my interest, my activity and most important <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">my Blogs</a> for my knowledge.</em></p>
 
-                    <p className='info'><em>Available for any role!!!</em></p>
+                    <p className='info'><em>Available for any role! Open to impactful opportunities!</em></p>
                 </div>
             </div>
             <button className='download-resume' onClick={handlePrint}>Download Resume</button>
