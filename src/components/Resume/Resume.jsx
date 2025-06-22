@@ -32,7 +32,8 @@ const Resume = () => {
 
                     <div className='adjective'>
                         <h2>Objective</h2>
-                        <p>I'm Shivam Shende a Computer Science and Engineering Student, previously i have done work in web developement field but now my interest shifting towards the role that can allow me to contribute throughout my skills like managemenq, market/tech research, leadership, stratigic thinking and problem solving.</p>
+                        <p>I'm Shivam Shende, started out as a web developer but now my interest shifting towards the role that can allow me to contribute throughout my skills like
+                            management, market/tech research, leadership, strategic thinking and problem solving.</p>
                     </div>
 
                     <h2>Education</h2>
@@ -40,16 +41,16 @@ const Resume = () => {
                     <p><strong>Bachelor of Computer Science and Engineering</strong></p>
 
                     <h2>Experience</h2>
-                    <p>Full Time Intern at <a href="https://anamarhs.com/" target="_blank">Anamarhs Web Solutions</a></p>
+                    <p>Web Developer at <a href="https://anamarhs.com/" target="_blank">Anamarhs Web Solutions</a></p>
                     <p>I've used skills during this job like,
-                    <ul className='horizontal-list'>
-                        <li>Page Building</li>
-                        <li>Reporting and Documentation</li>
-                        <li>Client Handling</li>
-                        <li>Problem Solving</li>
-                        <li>Time Management</li>
-                        <li>Communication</li>
-                    </ul>
+                        <ul className='horizontal-list'>
+                            <li>Page Building</li>
+                            <li>Reporting and Documentation</li>
+                            <li>Client Handling</li>
+                            <li>Problem Solving</li>
+                            <li>Time Management</li>
+                            <li>Communication</li>
+                        </ul>
 
                     </p>
 
