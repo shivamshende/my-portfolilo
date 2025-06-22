@@ -65,7 +65,7 @@ const Resume = () => {
 
                     <p><em>Visit to <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">my Portfolio</a> to know more about me, my interest, my activity and most important <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">my Blogs</a> for my knowledge.</em></p>
 
-                    <p className='info'><em>Available for any role! Open to impactful opportunities!</em></p>
+                    <p className='info'><em>Open for any role and impactful opportunities!</em></p>
                 </div>
             </div>
             <button className='download-resume' onClick={handlePrint}>Download Resume</button>
