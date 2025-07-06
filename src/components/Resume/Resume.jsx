@@ -20,16 +20,17 @@ const Resume = () => {
                 <div ref={resumeRef} className="resume-content">
                     <h2>Shivam Shende</h2>
                     <div className="contact-row">
-                        <p><strong>Phone:</strong> +91 7263057752</p>
+                        <p><strong>Phone:</strong> +91 8767664908</p>
                         <p><strong>Age:</strong> 23y</p>
                     </div>
 
                     <p><strong>Email:</strong> shivamshende200@gmail.com</p>
                     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivam-shende-b8b121250/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/shivam-shende-b8b121250/</a></p>
+                    <p><strong>Github:</strong> <a href="https://github.com/shivamshende" target="_blank" rel="noopener noreferrer">https://github.com/shivamshende</a></p>
                     <p><strong>Portfolio:</strong> <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">https://shivam-shende-portfolio.netlify.app/</a></p>
                     <p><strong>Blog:</strong> <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">https://medium.com/@shivamshende200</a></p>
-                    <p><strong>Github:</strong> <a href="https://github.com/shivamshende" target="_blank" rel="noopener noreferrer">https://github.com/shivamshende</a></p>
-
+                    <p><strong>Latest Blog:</strong> <a href="https://docs.google.com/document/d/1t7VxAEa3YPUX7tUaVvWeQYLEMAcXA2AFBUlzYF44ypA/edit?addon_store&tab=t.0" target="_blank" rel="noopener noreferrer">AI Assistants in Fintech</a></p>
+                   
                     <div className='adjective'>
                         <h2>Objective</h2>
                         <p>I'm Shivam Shende, started out as a web developer but now my interest shifting towards the role that can allow me to contribute throughout my skills like
