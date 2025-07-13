@@ -30,16 +30,16 @@ const Resume = () => {
                     <p><strong>Portfolio:</strong> <a href="https://shivam-shende-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">https://shivam-shende-portfolio.netlify.app/</a></p>
                     <p><strong>Blog:</strong> <a href="https://medium.com/@shivamshende200" target="_blank" rel="noopener noreferrer">https://medium.com/@shivamshende200</a></p>
                     <p><strong>Latest Blog:</strong> <a href="https://docs.google.com/document/d/1t7VxAEa3YPUX7tUaVvWeQYLEMAcXA2AFBUlzYF44ypA/edit?addon_store&tab=t.0" target="_blank" rel="noopener noreferrer">AI Assistants in Fintech</a></p>
-                   
+
                     <div className='adjective'>
                         <h2>Objective</h2>
                         <p>I'm Shivam Shende, started out as a web developer but now my interest shifting towards the role that can allow me to contribute throughout my skills like
-                            management, market/tech research, leadership, strategic thinking and problem solving.</p>
+                            management, tech/non-tech research and writing, strategic thinking and problem solving.</p>
                     </div>
 
                     <h2>Education</h2>
                     <p>Sant Gadge Baba Amravati University, Amravati, Maharashtra</p>
-                    <p><strong>Bachelor of Computer Science and Engineering</strong></p>
+                    <p><strong>Bachelor of Computer Science and Engineering</strong> (2021 - 2025)</p>
 
                     <h2>Experience</h2>
                     <p>Web Developer at <a href="https://anamarhs.com/" target="_blank">Anamarhs Web Solutions</a></p>
