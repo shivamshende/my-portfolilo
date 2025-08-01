@@ -20,7 +20,7 @@ const Resume = () => {
                 <div ref={resumeRef} className="resume-content">
                     <h2>Shivam Shende</h2>
                     <div className="contact-row">
-                        <p><strong>Phone:</strong> +91 8767664908</p>
+                        <p><strong>Phone:</strong> +91 7263057752</p>
                         <p><strong>Age:</strong> 23y</p>
                     </div>
 
