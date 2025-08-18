@@ -42,13 +42,14 @@ const Resume = () => {
                     <p><strong>Bachelor of Computer Science and Engineering</strong> (2021 - 2025)</p>
 
                     <h2>Experience</h2>
-                    <p>Web Developer at <a href="https://anamarhs.com/" target="_blank">Anamarhs Web Solutions</a></p>
+                    <p>Web Developer at <a href="https://anamarhs.com/" target="_blank">Anamarhs Web Solutions</a> and Lead Generator at <a href="https://dizana.co.in/" target="_blank">Dizana</a></p>
                     <p>I've used skills during this job like,
                         <ul className='horizontal-list'>
-                            <li>Page Building</li>
-                            <li>Reporting and Documentation</li>
-                            <li>Client Handling</li>
+                            <li>Software and Web Development</li>
                             <li>Problem Solving</li>
+                            <li>Reporting and Documentation</li>
+                            <li>Market Research</li>
+                            <li>Client Handling</li>
                             <li>Time Management</li>
                             <li>Communication</li>
                         </ul>
